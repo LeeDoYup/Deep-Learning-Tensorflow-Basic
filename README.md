@@ -20,6 +20,14 @@ presentation file of this seminar. It covers deep learning and tensorflow basic 
 
 ## 2. Basic: Tensorflow Practice #1
 
+- Linear Regression
+- Artificial Neural Network
+- Artificial Nerual Network with mini-batch learning
+- Compute Gradient (including gradient cliiping)
+- Data Reader in Tensorflow
+
 ## 3. cnn: Tensorflow Practice #2
+- Convolutional Neural Network with MNIST dataset
 
 ## 4. rnn: Tensorflow Practice #3
+- Recurrent Neural Network with S&P 500
