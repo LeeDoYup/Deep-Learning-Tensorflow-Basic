@@ -2,6 +2,9 @@
 
 This materials contain basic knowledge of deep learning and tensorflow.
 
+- 딥러닝_이론부터_실습까지_6시간 : 6시간~8시간 발표 분량의 요약 자료
+- Deep_Learning_Basic 1, 2: 전체 자료 
+
 ## 1. deep_learing_basic: 
 
 presentation file of this seminar. It covers deep learning and tensorflow basic knowledge.
